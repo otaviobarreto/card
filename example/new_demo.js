@@ -10633,7 +10633,7 @@ $(document).ready(function() {
     });
   }
   return $('form').submit(function(e) {
-    //return e.preventDefault();
+    //return e.preventDefault(); //FIXED
   });
 });
 
